@@ -37,6 +37,28 @@ Any device that appears as a USB drive on your computer — including:
 - **Scrobble bridge** — Reads Rockbox playback logs and reports your listening history back to your server
 - **Runs in the background** — A system tray icon keeps HifiMule available without getting in your way
 
+## Screenshots
+
+### Connect to your media server
+
+![Jellyfin server detected on the login screen](assets/login-jellyfin-detected.png)
+
+![OpenSubsonic server detected on the login screen](assets/login-opensubsonic-detected.png)
+
+### Browse, configure, and sync
+
+![Artist library with an empty sync basket](assets/library-artists-and-basket.png)
+
+![Genre library view with device controls](assets/library-genres-view.png)
+
+![Device settings modal](assets/device-settings-modal.png)
+
+![Device selection and managed folders](assets/device-selection-and-folders.png)
+
+![Basket ready to sync](assets/basket-ready-to-sync.png)
+
+![Sync starting state](assets/sync-starting-state.png)
+
 ## Installation
 
 Download the latest installer for your platform from the [Releases page](https://github.com/HifiMule/HifiMule/releases):
